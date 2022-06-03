@@ -14,6 +14,8 @@
 Amacım bir uygulama içerisinde hem ürün listelemek ve alıcı ile buluşturmak hemde bu ürünleri benzer marketlerde en uygun fiyatın araştırması işini kolaylaştırıp barkod tarama ile basit bir işlemle bunu sağlamak.
 
 <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular" target="_blank" rel="noreferrer">Proje diğer belgeleri</a>
+  
+  <p align="left"> <a href="[https://github.com/GurbuzKadir/guncelkonular](https://github.com/GurbuzKadir/guncelkonular/tree/main/Xorshift%20-%20Test%20And%20Result)" target="_blank" rel="noreferrer">Xorshift 1.000.000 bit Test and Result</a>
 
 <p align="left"> <a href="[https://github.com/GurbuzKadir/guncelkonular](https://docs.flutter.dev/cookbook)" target="_blank" rel="noreferrer">Flutter cookbook</a>
 
