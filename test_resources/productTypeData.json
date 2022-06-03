@@ -1,0 +1,850 @@
+[
+  {
+    "id": 1,
+    "name": "POPULAR PRODUCT",
+    "description": "",
+    "product": [
+      {
+        "id": 1001,
+        "title": "Item One Popular Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3500",
+        "discountPercent": 20,
+        "favourite": false,
+        "available": 1,
+        "type": 1,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1002,
+        "title": "Item Two Popular ",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 1,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1003,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 1,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1004,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 1,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1005,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 1,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "YENİ ÜRÜN",
+    "description": "",
+    "product": [
+      {
+        "id": 1006,
+        "title": "Item One",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3500",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 2,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1007,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 2,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1008,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 2,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "FLASH SALE PRODUCT",
+    "description": "",
+    "product": [
+      {
+        "id": 1009,
+        "title": "Item One Flash Sale",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3500",
+        "discountPercent": 20,
+        "favourite": false,
+        "available": 30,
+        "type": 3,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1010,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 3,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1011,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 3,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "FEATURED PRODUCT",
+    "description": "",
+    "product": [
+      {
+        "id": 1001,
+        "title": "Item One",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3500",
+        "discountPercent": 20,
+        "favourite": false,
+        "available": 30,
+        "type": 4,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1002,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 4,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1003,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 4,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1004,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 4,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1005,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 4,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Trend PRODUCT",
+    "description": "",
+    "product": [
+      {
+        "id": 1001,
+        "title": "Item One",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3500",
+        "discountPercent": 20,
+        "favourite": false,
+        "available": 30,
+        "type": 5,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1002,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 5,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1003,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 5,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1004,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 5,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1005,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 5,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "BEST SELLER PRODUCT",
+    "description": "",
+    "product": [
+      {
+        "id": 1001,
+        "title": "Item One Best SEller",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3500",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 6,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1002,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3500",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 6,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "MOST VIEWED PRODUCT",
+    "description": "",
+    "product": [
+      {
+        "id": 1001,
+        "title": "Item One",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3500",
+        "discountPercent": 20,
+        "favourite": false,
+        "available": 30,
+        "type": 7,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1002,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 7,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1003,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 7,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1004,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 7,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1005,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 7,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "MOST PURCHASED PRODUCT",
+    "description": "",
+    "product": [
+      {
+        "id": 1001,
+        "title": "Item One",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3500",
+        "discountPercent": 20,
+        "favourite": false,
+        "available": 30,
+        "type": 8,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1002,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 8,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1003,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 8,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1004,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "5000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 30,
+        "type": 8,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1005,
+        "title": "Item Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=2"
+        ],
+        "brand": {
+          "name": "Oneplus",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "15000",
+        "discountPercent": 30,
+        "favourite": false,
+        "available": 30,
+        "type": 8,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Shop",
+        "description":"Bu bir deneme projesidir",
+        "status":"read"
+    },
+    {
+        "id":2,
+        "title": "Sistem bildirimleri",
+        "description":"2.00 sürümü yüklü.",
+        "status":"read"
+    },
+    {
+        "id":3,
+        "title":"Teşekkür",
+        "description":"Bizi tercih ettiğiniz için teşekkürler",
+        "status":"read"
+    },
+    {
+        "id":4,
+        "title":"Güncelleme",
+        "description":"Güncelsiniz.",
+        "status":"read"
+    }
+    
+]

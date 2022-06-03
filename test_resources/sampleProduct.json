@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1001,
+    "title": "Item One Popular Product",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "images": [
+      "https://picsum.photos/200/300?random=",
+      "https://picsum.photos/200/300?random=",
+      "https://picsum.photos/200/300?random=",
+      "https://picsum.photos/200/300?random="
+    ],
+    "brand": {
+      "name": "Oneplus",
+      "shippingFrom": "Turkey",
+      "address": "Turkey"
+    },
+    "category": 1,
+    "price": "3500",
+    "discountPercent": 20,
+    "favourite": false,
+    "available": 0,
+    "type": 1,
+    "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+    "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+  },
+  {
+    "id": 1002,
+    "title": "เก็บเงินปลายทาง! ! สมาร์ทโฟน i13 Pro Max รุ่นปี 2022 พร้อมมือถือล็อคหน้าจอแบบเต็มหน้าจอขนาด 6.8 นิ้ว พร้อมซิมการ์ดคู่ ROM 8GB+ 256GB",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "images": [
+      "https://picsum.photos/200/300?random=",
+      "https://picsum.photos/200/300?random="
+    ],
+    "brand": {
+      "name": "Oneplus",
+      "shippingFrom": "Turkey",
+      "address": "Turkey"
+    },
+    "category": 1,
+    "price": "5000",
+    "discountPercent": 0,
+    "favourite": false,
+    "available": 30,
+    "type": 1,
+    "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+    "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+  }
+]

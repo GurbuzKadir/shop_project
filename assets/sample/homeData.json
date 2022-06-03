@@ -1,0 +1,472 @@
+{
+  "data": {
+    "carousel_images": [
+      {
+        "id": 1,
+        "image_url": "https://picsum.photos/200/300?random=",
+        "title": "Yemekler",
+        "type": 2
+      },
+      {
+        "id": 2,
+        "image_url": "https://picsum.photos/200/300?random=",
+        "title": "Marketler",
+        "type": 3
+      },
+      {
+        "id": 3,
+        "image_url": "https://picsum.photos/200/300?random=",
+        "title": "İndirimler seni bekliyor",
+        "type": 3
+      },
+      {
+        "id": 4,
+        "image_url": "https://picsum.photos/200/300?random=",
+        "title": "Yeni ürünlerimiz burada",
+        "type": 7
+      },
+      {
+        "id": 5,
+        "image_url": "https://picsum.photos/200/300?random=",
+        "title": "En uygun fiyat",
+        "type": 2
+      }
+    ],
+    "categories": [
+      {
+        "id": 0,
+        "name": "Tümü",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 1,
+        "name": "Trendler",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 2,
+        "name": "Market",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 3,
+        "name": "İçecekler",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 4,
+        "name": "Atıştırmalık",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 5,
+        "name": "Tatlılar",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 6,
+        "name": "Tam senlik",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 7,
+        "name": "Giyim",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 8,
+        "name": "Ev",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 9,
+        "name": "Sağlık",
+        "icon": "https://loremflickr.com/320/240?random="
+      },
+      {
+        "id": 10,
+        "name": "Kişisel bakım",
+        "icon": "https://loremflickr.com/320/240?random="
+      }
+    ],
+    "popular_product": [
+      {
+        "id": 1001001,
+        "title": "Manav ürünleri",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=1",
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=3",
+          "https://picsum.photos/200/300?random=4"
+        ],
+        "brand": {
+          "name": "Manav",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "1800",
+        "discountPercent": 20,
+        "favourite": false,
+        "available": 19,
+        "type": 1,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1002001,
+        "title": "Yemeklik ürünler",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=2",
+          "https://picsum.photos/200/300?random=12"
+        ],
+        "brand": {
+          "name": "Yemeklik",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "900",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 10,
+        "type": 1,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1003001,
+        "title": "Giyim",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=13",
+          "https://picsum.photos/200/300?random=21",
+          "https://picsum.photos/200/300?random=32",
+          "https://picsum.photos/200/300?random=22"
+        ],
+        "brand": {
+          "name": "Giyim",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "3000",
+        "discountPercent": 50,
+        "favourite": false,
+        "available": 10,
+        "type": 1,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 1004001,
+        "title": "Peynir",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=14",
+          "https://picsum.photos/200/300?random=11",
+          "https://picsum.photos/200/300?random=10",
+          "https://picsum.photos/200/300?random=41"
+        ],
+        "brand": {
+          "name": "Kahvaltılık",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 1,
+        "price": "1100",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 0,
+        "type": 1,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ],
+    "best_seller": [
+      {
+        "id": 6026006,
+        "title": "Sucuk",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Mutfak",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 6,
+        "price": "400",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 40,
+        "type": 6,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 6027006,
+        "title": "Pestil",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Et",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 6,
+        "price": "900",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 15,
+        "type": 6,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 6028006,
+        "title": "Zeytin",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Et",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 6,
+        "price": "500",
+        "discountPercent": 10,
+        "favourite": false,
+        "available": 15,
+        "type": 6,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 6029006,
+        "title": "Meyve suyu",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Mutfak",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 6,
+        "price": "1000",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 15,
+        "type": 6,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 6030006,
+        "title": "Yoğurt",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Bez",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 6,
+        "price": "1100",
+        "discountPercent": 10,
+        "favourite": false,
+        "available": 15,
+        "type": 6,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      },
+      {
+        "id": 6031006,
+        "title": "Karpuz",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "images": [
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random=",
+          "https://picsum.photos/200/300?random="
+        ],
+        "brand": {
+          "name": "Bez",
+          "shippingFrom": "Turkey",
+          "address": "Turkey"
+        },
+        "category": 6,
+        "price": "1100",
+        "discountPercent": 0,
+        "favourite": false,
+        "available": 15,
+        "type": 6,
+        "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+        "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+      }
+    ],
+    "flash_sale": {
+      "isActive": true,
+      "eventTitle": "Sınırlı indirim %70",
+      "image": "https://picsum.photos/200/300?random=1",
+      "event_duration": "100000",
+      "product_list": [
+        {
+          "id": 2009003,
+          "title": "Çay",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "images": [
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random="
+          ],
+          "brand": {
+            "name": "Çay",
+            "shippingFrom": "Turkey",
+            "address": "Turkey"
+          },
+          "category": 2,
+          "price": "599",
+          "discountPercent": 50,
+          "favourite": false,
+          "available": 30,
+          "type": 3,
+          "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+          "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+        },
+        {
+          "id": 2010003,
+          "title": "Bitki çayı",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "images": [
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random="
+          ],
+          "brand": {
+            "name": "Pazar",
+            "shippingFrom": "Turkey",
+            "address": "Turkey"
+          },
+          "category": 2,
+          "price": "799",
+          "discountPercent": 0,
+          "favourite": false,
+          "available": 10,
+          "type": 3,
+          "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+          "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+        },
+
+
+        {
+          "id": 3011003,
+          "title": "Dekor",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "images": [
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random="
+          ],
+          "brand": {
+            "name": "Pazar",
+            "shippingFrom": "Turkey",
+            "address": "Turkey"
+          },
+          "category": 3,
+          "price": "500",
+          "discountPercent": 50,
+          "favourite": false,
+          "available": 30,
+          "type": 3,
+          "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+          "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+        },
+        {
+          "id": 3012003,
+          "title": "Soğan",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "images": [
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random=",
+            "https://picsum.photos/200/300?random="
+          ],
+          "brand": {
+            "name": "Trend",
+            "shippingFrom": "Turkey",
+            "address": "Turkey"
+          },
+          "category": 3,
+          "price": "1100",
+          "discountPercent": 0,
+          "favourite": false,
+          "available": 15,
+          "type": 3,
+          "shipping_info": "STANDART NAKLİYE 20 TL. 120TL civarındaki siparişlerde ÜCRETSİZ. 1-2 haftada teslim edilmesi tahmin edilmektedir",
+          "return_policy": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6563.pdf"
+        }
+      ]
+    },
+    "event_sale": {
+      "isActive": true,
+      "eventTitle": "Etkinlik Satışı",
+      "image": "https://picsum.photos/200/300?random=5",
+      "event_sale_list": [
+        {
+          "id": 1,
+          "title": "100+ stil eklendi",
+          "image": "https://picsum.photos/200/300?random=9",
+          "type": 2
+        },
+        {
+          "id": 2,
+          "title": "Ürünlerimiz",
+          "image": "https://loremflickr.com/320/240/fashion/all",
+          "type": 5
+        },
+        {
+          "id": 3,
+          "title": "Markete kapında...",
+          "image": "https://loremflickr.com/320/240/beach/all",
+          "type": 6
+        },
+        {
+          "id": 4,
+          "title": "%70'e Varan İNDİRİM",
+          "image": "https://loremflickr.com/320/240/headphone/all",
+          "type": 3
+        }
+      ]
+    }
+  }
+}
