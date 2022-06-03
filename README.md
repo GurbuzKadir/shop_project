@@ -16,6 +16,7 @@ Amacım bir uygulama içerisinde hem ürün listelemek ve alıcı ile buluşturm
 <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular" target="_blank" rel="noreferrer">Proje diğer belgeleri</a>
   
   <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular/tree/main/Xorshift%20-%20Test%20And%20Result" target="_blank" rel="noreferrer">Xorshift 1.000.000 bit Test and Result</a>
+ 1.000.000 bit üreteci ile bitleri üretip dizi içerisine, oradan da bir metin belgesine kayıt ettim. Daha sonra tüm bitlerin rasgele olma durumunu analiz ve sonuçlarını verilen program ile test edip sonuçlarını kayıt ettim.   
 
 <p align="left"> <a href="https://docs.flutter.dev/cookbook" target="_blank" rel="noreferrer">Flutter cookbook</a>
 
