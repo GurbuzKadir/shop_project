@@ -13,7 +13,7 @@
 ### Projeler hakkında  
 Amacım bir uygulama içerisinde hem ürün listelemek ve alıcı ile buluşturmak hemde bu ürünleri benzer marketlerde en uygun fiyatın araştırması işini kolaylaştırıp barkod tarama ile basit bir işlemle bunu sağlamak.
 
-<p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular" target="_blank" rel="noreferrer">Proje dökümantasyonları</a>
+<p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular" target="_blank" rel="noreferrer">Proje dökümanları - Xorshift ve NIST</a>
   
   <p align="left"> <a href="https://www.youtube.com/watch?v=I2TF4X9A14A" target="_blank" rel="noreferrer">Youtube Videosu</a>
   
