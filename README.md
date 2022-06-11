@@ -23,6 +23,7 @@ Amacım bir uygulama içerisinde hem ürün listelemek ve alıcı ile buluşturm
     
  1.000.000 bit üreteci ile bitleri üretip dizi içerisine, oradan da bir metin belgesine kayıt ettim. Daha sonra tüm bitlerin rasgele olma durumunu analiz ve sonuçlarını verilen program ile test edip sonuçlarını kayıt ettim.   
 
+  ! Önemli Not : Proje içerisindeki resimler telifsiz ve rasgele olarak gelmektedir.
 
 <h3 align="left">Bağlantılar:</h3>
 <p align="left">
