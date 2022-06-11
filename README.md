@@ -25,6 +25,8 @@ Amacım bir uygulama içerisinde hem ürün listelemek ve alıcı ile buluşturm
 
   :warning: Önemli Not : Proje içerisindeki resimler telifsiz ve rastgele gelmektedir.
     <p align="left"> <a href="https://loremflickr.com/" target="_blank" rel="noreferrer">:earth_americas: Loremflickr</a><p/>
+    <p align="left"> <a href="https://picsum.photos/" target="_blank" rel="noreferrer">:earth_americas: Picsum</a><p/>
+
 
 
 <h3 align="left">Bağlantılar:</h3>
