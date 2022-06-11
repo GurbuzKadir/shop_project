@@ -13,15 +13,15 @@
 ### Projeler hakkında  
 Amacım bir uygulama içerisinde hem ürün listelemek ve alıcı ile buluşturmak hemde bu ürünleri benzer marketlerde en uygun fiyatın araştırması işini kolaylaştırıp barkod tarama ile basit bir işlemle bunu sağlamak.
 
-<p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular" target="_blank" rel="noreferrer">Proje dökümanları - Xorshift ve NIST</a>
+<p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular" target="_blank" rel="noreferrer">:memo: - Proje dökümanları - Xorshift ve NIST</a>
   
-  <p align="left"> <a href="https://www.youtube.com/watch?v=I2TF4X9A14A" target="_blank" rel="noreferrer">Youtube Videosu</a>
+  <p align="left"> <a href="https://www.youtube.com/watch?v=I2TF4X9A14A" target="_blank" rel="noreferrer">:clapper:	- Youtube Videosu</a>
   
-  <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular/tree/main/Xorshift%20-%20Test%20And%20Result" target="_blank" rel="noreferrer">Xorshift 1.000.000 bit Test and Result</a>
-    <p align="left"> <a href="https://github.com/GurbuzKadir/shop_project/tree/main/testing_apk" target="_blank" rel="noreferrer">Apk Dosyası</a><p/>
+  <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular/tree/main/Xorshift%20-%20Test%20And%20Result" target="_blank" rel="noreferrer">:100: - Xorshift 1.000.000 bit Test and Result</a>
+    <p align="left"> <a href="https://github.com/GurbuzKadir/shop_project/tree/main/testing_apk" target="_blank" rel="noreferrer">:iphone: - Apk Dosyası</a><p/>
  1.000.000 bit üreteci ile bitleri üretip dizi içerisine, oradan da bir metin belgesine kayıt ettim. Daha sonra tüm bitlerin rasgele olma durumunu analiz ve sonuçlarını verilen program ile test edip sonuçlarını kayıt ettim.   
 
-<p align="left"> <a href="https://docs.flutter.dev/cookbook" target="_blank" rel="noreferrer">:iphone: - Flutter cookbook</a>
+<p align="left"> <a href="https://docs.flutter.dev/cookbook" target="_blank" rel="noreferrer">Flutter cookbook</a>
 
 <h3 align="left">Bağlantılar:</h3>
 <p align="left">
