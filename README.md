@@ -24,6 +24,8 @@ Amacım bir uygulama içerisinde hem ürün listelemek ve alıcı ile buluşturm
  1.000.000 bit üreteci ile bitleri üretip dizi içerisine, oradan da bir metin belgesine kayıt ettim. Daha sonra tüm bitlerin rasgele olma durumunu analiz ve sonuçlarını verilen program ile test edip sonuçlarını kayıt ettim.   
 
   :warning: Önemli Not : Proje içerisindeki resimler telifsiz ve rastgele gelmektedir.
+    <p align="left"> <a href="https://loremflickr.com/" target="_blank" rel="noreferrer">:earth_americas: Loremflickr</a><p/>
+
 
 <h3 align="left">Bağlantılar:</h3>
 <p align="left">
