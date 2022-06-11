@@ -15,7 +15,7 @@ Amacım bir uygulama içerisinde hem ürün listelemek ve alıcı ile buluşturm
 
 <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular" target="_blank" rel="noreferrer">:memo: Proje dökümanları ve Xorshift ile NIST</a>
   <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular/tree/main/Proje%20Raporu" target="_blank" rel="noreferrer">:notebook: Proje Raporu</a>
-  <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular/tree/main/Sunu" target="_blank" rel="noreferrer">:film_strip: Proje Sunumu</a>
+  <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular/tree/main/Proje%20Sunumu" target="_blank" rel="noreferrer">:film_strip: Proje Sunumu</a>
   <p align="left"> <a href="https://www.youtube.com/watch?v=I2TF4X9A14A" target="_blank" rel="noreferrer">:clapper: Youtube Videosu</a>
   
   <p align="left"> <a href="https://github.com/GurbuzKadir/shop_project/tree/main/testing_apk" target="_blank" rel="noreferrer">:iphone: Apk Dosyası</a><p/>
