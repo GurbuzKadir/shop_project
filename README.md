@@ -14,6 +14,7 @@
 Amacım bir uygulama içerisinde hem ürün listelemek ve alıcı ile buluşturmak hemde bu ürünleri benzer marketlerde en uygun fiyatın araştırması işini kolaylaştırıp barkod tarama ile basit bir işlemle bunu sağlamak.
 
 <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular" target="_blank" rel="noreferrer">:memo: Proje dökümanları ve Xorshift ile NIST</a>
+  <p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular/tree/main/Proje%20Raporu" target="_blank" rel="noreferrer">:notebook: Proje Raporu</a>
   
   <p align="left"> <a href="https://www.youtube.com/watch?v=I2TF4X9A14A" target="_blank" rel="noreferrer">:clapper: Youtube Videosu</a>
   
